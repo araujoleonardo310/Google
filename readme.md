@@ -1,18 +1,14 @@
-﻿## 🌐👨‍💻 Projeto: Pagina de pesquisa da Google 
- 
-![Letra G ](/src/demostracao.png)
+﻿## 🌐👨‍💻 Projeto: Google<h1> 
 
+<p align="center">
+          <img src="/src/demostracao.png">
+</p>
 
-Hi guys, beleza? 😎🖖
+## Hi guys, beleza? 😎🖖
 
-O Projeto é um percurso de um tutorial para criar a página inicial do Google em dispositivos móveis.
+O Projeto é um percurso do tutorial que segui, para criar a página inicial do Google, em dispositivos móveis.
 
->Devido a crição acontecer depois de ter assistido ao segundo filme do Godizilla, <br> 
->decide e editei a letra inicial para ser uma referência a ele, além disso coloquei cor da âncora igual ao sopro atômico XD
-
-![Letra G ](/src/letraG.jpg)
-<br>
-![Cor da âncora](/src/cor_ancora.jpg)
+>Devido a crição acontecer depois de ter assistido ao segundo filme do Godizilla, editei a letra inicial para ser uma referência a ele, além disso coloquei a cor da tag âncora igual ao sopro atômico XD
 
 ## Objetivo
 
