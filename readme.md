@@ -4,8 +4,6 @@
           <img src="/src/demostracao.png">
 </p>
 
-## Hi guys, beleza? 😎🖖
-
 O Projeto é um percurso do tutorial que segui, para criar a página inicial do Google, em dispositivos móveis.
 
 >Devido a crição acontecer depois de ter assistido ao segundo filme do Godizilla, editei a letra inicial para ser uma referência a ele, além disso coloquei a cor da tag âncora igual ao sopro atômico XD
