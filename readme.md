@@ -11,8 +11,8 @@ O Projeto é um percurso do tutorial que segui, para criar a página inicial do 
 ## Objetivo
 
 * Praticar
-* Conhecer mais tangs de posicionamento de elementos e quais sequências seguir
-* Commprender a estrutura e desenvolvimento de page
+* Conhecer mais tags de posicionamento de elementos e quais sequências seguir
+* Commprender a estrutura e desenvolvimento de uma page
 * Aprender boas práticas de desenvolvimento
 
 ## 🔗Referências
